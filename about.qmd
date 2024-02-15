@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+About me
+
+I am an experienced Data Analyst with a demonstrated history of working in the healthcare and consumer technology industries. Skilled in Microsoft Office, DBMS, business intelligence and data analytics. Strong data oriented professional graduated from Bowling Green State University.
