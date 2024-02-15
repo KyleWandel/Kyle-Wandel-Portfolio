@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Personal_Projects.qmd
+      - School_Work.qmd
 
 format:
   html:
