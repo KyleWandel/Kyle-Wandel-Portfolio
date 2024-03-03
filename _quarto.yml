@@ -8,9 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Personal_Projects.qmd
-      - School_Work.qmd
+      - href: resume.qmd
+        text: Resume
+      - href: Personal_Projects.qmd
+        text: Personal Projects
+      - href: School_Work.qmd
+        text: School Work
 
 format:
   html:

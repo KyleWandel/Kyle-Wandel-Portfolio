@@ -1,0 +1,73 @@
+---
+title: "About Me"
+---
+
+[**Summary:**]{.underline}
+
+Self-motivated Business Intelligence Manager with 8 years of experience in business intelligence, and data analysis, and customer/member relations. Proficient in Microsoft environment and experienced in driving cross-functional adoption of CRM tools and strategies. Skilled in data manipulation, user management, and implementing best practices. Adept at conducting market research, developing reports, and delivering actionable insights. Strong collaborator with excellent communication and training abilities.
+
+[**Education:**]{.underline}
+
+Bachelor's Degree in Business Administration, Analytics and Intelligence
+
+Bowling Green State University, Bowling Green, Ohio
+
+December 2015
+
+[**Professional Experience:**]{.underline}
+
+**Manager, Business Intelligence \| Consumer Technology Association \| 03/2019 -- PRESENT**
+
+Manage CTA's semi-annual technology industry 5-year forecasts, tracking shipment units, average price, and revenues for over 250 consumer technology products and services.
+
+Conduct interviews and distributed surveys to association members for data collection purposes, ensuring accurate forecasting and strengthen member relations.
+
+Utilized R to perform advanced data mining analysis and regression modeling on member engagement data.
+
+Created a membership engagement scorecard to track customer engagement and identify specific trends.
+
+Developed forecast modeling tools and interactive Power BI visualizations for CTA analysts and C-level executives.
+
+Perform market research and diagnosis market trends for specific technology products in the industry.
+
+Moderate conference panels to facilitate discussion of industry trends and data analysis
+
+**Data Analyst \| NCI Inc. -- AdvanceMed, Midwest Zone \| 09/2017 -- 03/2019**
+
+Utilized SAS -- Enterprise Guide and SQL to develop complex queries and scripts for investigative purposes.
+
+Performed in-depth evaluation and analysis of potential fraud cases using claims information and other data sources.
+
+Collaborated with Statisticians and Sr. Data Analysts to perform statistical sampling and extrapolations.
+
+Communicated data analysis results effectively to internal and external stakeholders.
+
+Utilized SQL stored procedures and joins to query data and create reports.
+
+**Consultant \| Duty First Consulting \| 01/2016 -- 08/2017**
+
+Assisted in writing proposals and created training materials for the Centers of Medicare and Medicaid Services (CMS) project.
+
+Communicated and collaborated with clients to produce accurate, timely, thorough deliverables upon client request for various data scenarios and needs.
+
+Used SQL and Excel to execute quality assurance checks on several million lines of certified plan information, preventing inconsistencies in data.
+
+Developed stored procedures to create daily reports for key stakeholders to update stakeholders on the status of the marketplace.
+
+[**Skills:**]{.underline}
+
+Microsoft Products
+
+Data Manipulation and Analysis
+
+Market Research and Trends Analysis
+
+Advanced Data Mining and Regression Analysis (R, SQL)
+
+Power BI and Data Visualization
+
+Project Management
+
+Excellent Communication and Training Abilities
+
+Collaboration and Stakeholder Engagement

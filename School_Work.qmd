@@ -2,4 +2,6 @@
 title: "School Work"
 ---
 
-STAT 515
+## STAT 515 - Spring 2024
+
+-   [Mid Project: Redesigning a visual](https://kylewandel.github.io/STAT-515-Mid-Project/)
